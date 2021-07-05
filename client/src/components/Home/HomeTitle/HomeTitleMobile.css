@@ -1,0 +1,11 @@
+@media only screen and (max-width: 800px) {
+
+    #HTitle {
+        font-size: 2rem;
+        margin: 1rem;
+        color: #575757;
+        width: 100%;
+    }
+
+  }
+  

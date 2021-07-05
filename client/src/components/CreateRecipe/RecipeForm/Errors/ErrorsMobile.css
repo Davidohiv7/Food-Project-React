@@ -1,0 +1,7 @@
+@media only screen and (max-width: 800px) {
+    #ErrorsContainer{
+        position: absolute;
+        transform: translate(0rem, 14rem);
+    }
+    
+}

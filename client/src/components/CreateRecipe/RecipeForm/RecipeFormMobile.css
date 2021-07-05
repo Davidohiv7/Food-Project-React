@@ -1,0 +1,59 @@
+@media only screen and (max-width: 800px) {
+    #FormContainer {
+        display: flex;
+        justify-content: center;
+    }
+
+    #FormContainer {
+        width: 97%;
+
+    }
+
+    #FLeft {
+        display: none;
+    }
+
+    #FRight {
+        width: 95%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #FRight div {
+        align-items: center;
+        width: 95%;
+    }
+
+    #FRight input {
+        width: 95%;
+    }
+
+    #FRight ul {
+        width: 95%;
+    }
+
+    #FRight select {
+        width: 95%;
+    }
+
+    #ImageContainer {
+        margin: 0rem;
+    }
+
+    #ImageInputContainer {
+        display: flex;
+        justify-content: center;
+        margin-left: 1.8rem;
+    }
+
+    #SubmitContainer > input{
+        margin: 0rem;
+        width: 10rem;
+    }
+
+    #SubmitContainer > input:active{
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    }
+    
+}

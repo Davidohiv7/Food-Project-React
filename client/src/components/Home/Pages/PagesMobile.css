@@ -1,0 +1,6 @@
+@media only screen and (max-width: 800px) {
+    #pagesContainer{
+        flex-wrap: wrap;
+    }
+
+}

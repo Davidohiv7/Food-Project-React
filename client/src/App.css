@@ -1,0 +1,9 @@
+body {
+  background: linear-gradient(to right, #fffaf5, white);
+  height: 100%;
+}
+
+.App {
+  text-align: center;
+  margin-bottom: 2rem;
+}

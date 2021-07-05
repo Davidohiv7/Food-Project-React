@@ -1,0 +1,29 @@
+@media only screen and (max-width: 800px) {
+
+    #HContainer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    #HRight {
+        display: none;
+    }
+    #HLeft {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    #HRecipesContainer {
+        display: flex;
+        flex-direction: column;
+        width: 90%;
+        align-items: center;
+    }
+
+}
+
+  

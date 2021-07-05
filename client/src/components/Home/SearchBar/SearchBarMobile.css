@@ -1,0 +1,28 @@
+@media only screen and (max-width: 800px) {
+    #SBContainer {
+        width: 95%;
+    }
+
+    #SB {
+        width: 100%;
+    }
+
+    #SBinputContainer {
+        width: 100%;
+    }
+
+    #SBButton{
+        height: 3rem;
+    }
+
+    #SearchSign {
+        font-size: 1rem;
+        transform: translate(1.1rem, 3.3rem);
+        width: 80%;
+        padding: 0.2rem;
+    }
+    #SearchSign > span {
+        padding: 0rem 0rem 0.5rem 0rem;
+    }
+  }
+  

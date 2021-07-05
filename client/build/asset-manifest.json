@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d84e332a.chunk.css",
+    "main.js": "/static/js/main.be92e6d4.chunk.js",
+    "main.js.map": "/static/js/main.be92e6d4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9c1602da.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9c1602da.js.map",
+    "static/js/2.49e713b3.chunk.js": "/static/js/2.49e713b3.chunk.js",
+    "static/js/2.49e713b3.chunk.js.map": "/static/js/2.49e713b3.chunk.js.map",
+    "static/js/3.dc5e7abe.chunk.js": "/static/js/3.dc5e7abe.chunk.js",
+    "static/js/3.dc5e7abe.chunk.js.map": "/static/js/3.dc5e7abe.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d84e332a.chunk.css.map": "/static/css/main.d84e332a.chunk.css.map",
+    "static/js/2.49e713b3.chunk.js.LICENSE.txt": "/static/js/2.49e713b3.chunk.js.LICENSE.txt",
+    "static/media/fireIcon.4a373d5d.png": "/static/media/fireIcon.4a373d5d.png",
+    "static/media/homeRightImg.3348f678.png": "/static/media/homeRightImg.3348f678.png",
+    "static/media/LandingPage.css": "/static/media/landingPageBackground.258903ed.jpg",
+    "static/media/loadingIcon3.4b904dc9.png": "/static/media/loadingIcon3.4b904dc9.png",
+    "static/media/RecipeForm.css": "/static/media/op1.338606f1.jpg",
+    "static/media/redbellpeppericon.b191f713.png": "/static/media/redbellpeppericon.b191f713.png",
+    "static/media/searchIIcon.e2ad182d.webp": "/static/media/searchIIcon.e2ad182d.webp",
+    "static/media/sicon.4b0000fc.png": "/static/media/sicon.4b0000fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c1602da.js",
+    "static/js/2.49e713b3.chunk.js",
+    "static/css/main.d84e332a.chunk.css",
+    "static/js/main.be92e6d4.chunk.js"
+  ]
+}

@@ -1,0 +1,23 @@
+@media only screen and (max-width: 800px) {
+    #NBContainer {
+        flex-direction: column;
+        align-items: center;
+        margin: 1rem;
+    }
+
+    #NBContainer > div {
+        display: flex;
+        justify-content: center;
+        margin: 0.5rem 0rem;
+    }
+    #NBContainer button {
+        padding: 0rem;
+        margin: 0rem;
+    }
+
+    #NBIcon {
+    display: none;
+    }
+
+  }
+  
